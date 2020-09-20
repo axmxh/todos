@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Complete WSS task",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "learn TypeScript",
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "buy new laptop",
+      "done": false
+    },
+    {
+      "id": 4,
+      "title": "sell old laptop",
+      "done": false
+    }
+  ]
+}
